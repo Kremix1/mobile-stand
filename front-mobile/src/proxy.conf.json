@@ -1,0 +1,11 @@
+{
+    "/art": {
+        "target": "http://31.129.108.227:5004",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug",
+        "pathRewrite": {
+            "^/art": ""
+        }
+    }
+}
